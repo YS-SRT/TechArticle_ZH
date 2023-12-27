@@ -6,6 +6,8 @@
 
 [AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(1)](https://juejin.cn/post/7312356566917939215)
 
+[AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(2)](https://juejin.cn/post/7316931384879087656)
+
 
 
 ### 编程框架系列：
