@@ -4,9 +4,11 @@
 
 ### AI 炼丹系列:
 
-[AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(1)](https://juejin.cn/post/7312356566917939215)
+[AI 炼丹系列（Python）：gpt2-xl 本地部署及prompt tuning知识库（1）](https://juejin.cn/post/7317904530443501577)
 
 [AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(2)](https://juejin.cn/post/7316931384879087656)
+
+[AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(1)](https://juejin.cn/post/7312356566917939215)
 
 
 
