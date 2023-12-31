@@ -2,7 +2,7 @@
 - gpt2-xl的本地部署
 - prompt中上下文的zero-shot, one-shot对gpt2生成文本的影响
 - langchain如何实现知识库的prompt tuning 
-- 如何进行Adapter Tuning
+- 如何进行Adapter Tuning、LoRA、P-Tuning v2
 
 ## 编写代码
 下载gpt2-xl模型的model.safetensors和tokenizer相关配置文件，添加到本地路径

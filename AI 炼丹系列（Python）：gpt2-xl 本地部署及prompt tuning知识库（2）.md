@@ -2,7 +2,7 @@
 - gpt2-xl的本地部署
 - prompt中上下文的zero-shot, one-shot对gpt2生成文本的影响
 - langchain如何实现知识库的prompt tuning 
-- 如何进行Adapter Tuning
+- 如何进行Adapter Tuning、LoRA、P-Tuning v2
 ## 编写代码
 引入上一篇文章中定义好的gpt2-xl接口，并继承自langchain.llms.base.LLM实现本地大模型的自定义类。
 
