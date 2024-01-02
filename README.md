@@ -12,6 +12,8 @@
 
 [AI 炼丹系列（Python）：YOLOv8n、NLLB200、StableDiffusionXL 本地预训练模型加载(1)](https://juejin.cn/post/7312356566917939215)
 
+[AI 炼丹系列（Python）: 深度学习从练气到化神，是否结丹看你的（1）](https://juejin.cn/post/7318570720023576611)
+
 
 
 ### 编程框架系列：

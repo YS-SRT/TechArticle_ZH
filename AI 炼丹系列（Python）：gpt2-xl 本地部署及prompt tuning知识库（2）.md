@@ -237,4 +237,4 @@ result3
 下一篇谈谈如何微调gpt2模型和相关的基础知识，包含对Tensorflow, Pytoch库的熟练使用。
 
 ## 完整代码地址
-![2023-11-27_093952.jpg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b3aa851968634d40a5ae82a5c9d3daf4~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=987&h=570&s=83093&e=jpg&b=fcfcfc)
+![my_github.jpg](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a6b93e2ca4b94fd9b80c216fa8485284~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1226&h=457&s=66411&e=jpg&b=fefefe)
